@@ -12,6 +12,8 @@
     justify-content: flex-start;
     flex-direction: column;
 
+    pointer-events: none;
+
     gap: 1rem;
 
     padding: 2rem 5%;
@@ -33,6 +35,9 @@
         user-select: none;
         backdrop-filter: blur(2px);
         position: relative;
+        pointer-events: all;
+
+        pointer-events: auto;
         
     }
 
