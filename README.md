@@ -1,6 +1,9 @@
 # ui-webalerts
 Javascript library for ui web alerts
 
+![image](https://github.com/BossLama/ui-webalerts/assets/77834649/09ee8018-bfa5-4864-b4ca-1db54dc7f1c2)
+
+
 ## Installation
 Implement the following script in <head>
 ```html
